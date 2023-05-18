@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rams1ngh
 - 👀 I’m interested in learning and contributing
 - 🌱 I’m currently learning JavaScript, Flutter, C, Web Dev.
-- 💞️ I’m looking to collaborate on Minor and majpr Projects 
+- 💞️ I’m looking to collaborate on Minor and major Projects 
 - 📫 How to reach me ...
 
 <!---
